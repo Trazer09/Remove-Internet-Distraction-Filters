@@ -1,4 +1,4 @@
-# RID - Remove Internet Distraction Filters
+# RID — Remove Internet Distraction Filters
 
 **Get RID of distractions.**
 
@@ -32,7 +32,7 @@ Try **[Remove Internet Distraction for Firefox](https://addons.mozilla.org/en-US
 - [`reddit.txt`](./reddit.txt) — Remove distractions
 
 ### Google Search — Remove AI Mode
-- [`google-ai.txt`](./google-ai.txt) — Remove Google AI search elements
+- [`google-ai.txt`](./google-ai.txt) — Remove Google AI Mode elements
 
 *Google may change its layout, causing filters to stop working.*
 
