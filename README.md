@@ -1,4 +1,4 @@
-# Remove Internet Distraction Filters
+# RID - Remove Internet Distraction Filters
 
 **Get RID of distractions.**
 
