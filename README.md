@@ -30,15 +30,12 @@ Try **[Remove Internet Distraction for Firefox](https://addons.mozilla.org/en-US
 - [`reddit.txt`](./reddit.txt) — Remove distractions
 
 ### Google Search — Remove AI Mode
-- Visit [Ten Blue Links](https://tenbluelinks.org/) to use Google Web as your default search.
-- Enable **EasyList – Annoyances** in uBlock Origin to hide the Google AI Mode section.
-- Add this filter to **My Filters** to remove the "All" section:
-
-```text
-www.google.com##div:nth-of-type(2) > .C6AK7c > .mXwfNd
-```
+- [`google-ai.txt`](./google-ai.txt) - Remove Google AI search results
 
 *Google may change its layout, causing filters to stop working.*
+
+
+**🩺 Doctor's orders:** If these filters help you, ⭐ star the repo to show some love. No prescription required!
 
 ---
 
