@@ -35,8 +35,7 @@ Try **[Remove Internet Distraction for Firefox](https://addons.mozilla.org/en-US
 *Google may change its layout, causing filters to stop working.*
 
 
-**🩺 Doctor's orders:** If these filters help you, ⭐ star the repo to show some love. No prescription required!
-
 ---
 
-Found a broken filter? Open an Issue or submit a pull request. If you find this project useful, consider starring the repository.
+**🩺 Doctor's orders:** If these filters help you, ⭐ star the repo to show some love. No prescription required!
+
