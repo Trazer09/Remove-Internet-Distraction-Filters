@@ -37,5 +37,4 @@ Try **[Remove Internet Distraction for Firefox](https://addons.mozilla.org/en-US
 
 ---
 
-**🩺 Doctor's orders:** If these filters help you, ⭐ star the repo to show some love. No prescription required!
-
+**10 out of 10 doctors recommend starring this repo if you find it helpful. ⭐**
