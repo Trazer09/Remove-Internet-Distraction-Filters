@@ -1,10 +1,12 @@
+ <div align="center">
+
 # RID — Remove Internet Distraction Filters
 
-<div align="center">
-
-_**Get RID of distractions**_
+_**Get RID of distractions.**_
 
 </div>
+
+<br>
 
 uBlock Origin filters for YouTube, Instagram, Reddit, and Google Search.
 
