@@ -1,6 +1,6 @@
 !  Google Search — Remove AI Mode
 
-!  1. Visit Ten Blue Links (https://tenbluelinks.org/) to use Google Web as your default search.
+!  1. Visit (https://tenbluelinks.org/) to use Google Web as your default search.
 
 !  2. Enable EasyList – Annoyances in uBlock Origin to hide the Google AI Mode section.
 
