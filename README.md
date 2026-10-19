@@ -2,7 +2,7 @@
 
 # RID — Remove Internet Distraction Filters
 
-_**Get RID of distractions.**_
+_**Get RID of distractions**_
 
 </div>
 
