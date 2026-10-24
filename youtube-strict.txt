@@ -135,13 +135,29 @@ www.youtube.com##a[href="/feed/subscriptions"]
 ! Left Bar — Sections
 ! --------------------------------------------------
 
-www.youtube.com##ytd-guide-section-renderer.style-scope:nth-of-type(2)
-www.youtube.com##ytd-guide-section-renderer.style-scope:nth-of-type(3)
-www.youtube.com##ytd-guide-section-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-guide-section-renderer.style-scope:nth-of-type(5)
-www.youtube.com##ytd-guide-section-renderer.style-scope:nth-of-type(6)
-www.youtube.com###guide-renderer > div#footer
 
+www.youtube.com##ytd-guide-section-renderer #guide-section-title:has-text(Explore)
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Music"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Movies & TV"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Live"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Gaming"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Podcasts"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Playables"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Memberships"])
+
+www.youtube.com##ytd-guide-collapsible-entry-renderer:has(#expander-item:has-text(Show more))
+www.youtube.com##ytd-guide-section-renderer:has(ytd-guide-collapsible-entry-renderer) 
+www.youtube.com##ytd-guide-section-renderer:has(#guide-section-title:has-text(More from YouTube))
+
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="YouTube Premium"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="YouTube Music"])
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="YouTube Kids"])
+
+www.youtube.com##ytd-guide-entry-renderer:has(>[title="Report history"])
+
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com###copyright
 
 ! --------------------------------------------------
 ! Video Player — Endscreen & Overlays
